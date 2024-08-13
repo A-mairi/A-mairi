@@ -4,7 +4,7 @@ I'm a passionate beginner in the IT field, currently diving into the world of pr
 
 ### 🌱 What I'm Learning
 
-I'm currently on **Day 5** of the Python course, where I'm building a strong foundation in programming concepts. I’m eager to learn more about Python and eventually expand into web development, data science, or other exciting areas in tech.
+I'm currently in the middle of the Python course, where I'm building a strong foundation in programming concepts. I’m eager to learn more about Python and eventually expand into web development, data science, or other exciting areas in tech.
 
 ### 🎯 Goals
 
