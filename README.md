@@ -24,7 +24,7 @@ Though I’m just starting out and learning, here’s what I’m working with:
 
 I’m currently working on course projects. Stay tuned as I start building and sharing my own!
 
-- **[Coming Soon]** - My first Python project will be here!  
+- [100 Days of Python](https://github.com/A-mairi/100-Days-of-Python) - My first Python project will be here!  
   ![Tech Stack](https://img.shields.io/badge/Stack-Python-green)
 
 ### 📊 GitHub Stats
